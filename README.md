@@ -1,4 +1,4 @@
-# AIHT_UNIT-4
+# AUTOENCODER-BASED-NETWORK-INTRUSION-DETECTION
 
 ## Network Intrusion Detection via Anomaly Score Prediction Using Autoencoder and LSTM
 
